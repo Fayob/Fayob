@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi! Welcome to my repository 👋
+
+![img](./assets/I'm%20Favour.png)
 
 <!--
 **Fayob/Fayob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
