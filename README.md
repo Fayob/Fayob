@@ -2,13 +2,11 @@
 
 ![img](./assets/I'm%20Favour.png) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning remotely at ![](https://img.shields.io/badge/Microverse-blueviolet)
+## 🌱 I’m currently learning remotely at ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 ### 📫 You can reach me through:
 - Twitter: [@fabimworld2536](https://twitter.com/Fabimworld2536)
 - LinkedIn: [@abimbola-ade](https://www.linkedin.com/in/abimbola-ade)
-
 
 
 ## GitHub Stats:
