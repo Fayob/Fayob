@@ -24,7 +24,7 @@
 
 
 ## GitHub Stats:
-[![Abimbola Favour's github stats](https://github-readme-stats.vercel.app/api?username=fayob&show_icons=true&theme=radical)](https://github.com/fayob/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fayob&show_icons=true&theme=radical&layout=compact)](https://github.com/fayob/github-readme-stats)
+<!-- [![Abimbola Favour's github stats](https://github-readme-stats.vercel.app/api?username=fayob&show_icons=true&theme=radical)](https://github.com/fayob/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fayob&show_icons=true&theme=radical&layout=compact)](https://github.com/fayob/github-readme-stats) -->
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Fayob&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Fayob&theme=dark&hide_border=false)<br/>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fayob&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
