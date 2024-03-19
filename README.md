@@ -2,7 +2,7 @@
 
 ![img](./assets/I'm%20Favour.png) 
 
-## 🌱 I’m currently learning remotely at ![](https://img.shields.io/badge/Microverse-blueviolet)
+<!-- ## 🌱 I’m currently learning remotely at ![](https://img.shields.io/badge/Microverse-blueviolet) -->
 
 ### 📫 You can reach me through:
 
